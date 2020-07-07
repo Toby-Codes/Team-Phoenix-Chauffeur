@@ -3,6 +3,7 @@
 ## Getting Started
 
 You're to commence working on a variant only if the template's PM assigns its UX design and Clubhouse story to you.
+
 :rotating_light: Kindly note that unauthorized PRs would not be merged.
 To get started, fork and proceed to clone your forked copy.
 Switch to develop branch
@@ -32,6 +33,7 @@ To accentuate your speed and fasttrack your development, you are encouraged to u
 ### Submitting tasks/Making PRs
 
 Proceed to make your edits, commit and PR to develop branch of main repository.
+
 :rotating_light: While submitting your PR, you must also submit a live working version of your code and your clubhouse link unless your PR wouldn't be merged
 
 Regards.
